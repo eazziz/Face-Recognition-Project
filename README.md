@@ -4,8 +4,9 @@
 The Real-Time Face Recognition System is a Python-based project that utilizes OpenCV and the face_recognition library to perform real-time face detection and recognition. This system captures video from a webcam, identifies known faces, and displays bounding boxes and names for recognized users.
 
 *Here, we will add image of us using the program. Image of me, then Obama, then Margot Robbie.
-![Screenshot](<img width="640" alt="Screenshot 2024-06-25 at 8 16 49 PM" src="https://github.com/eazziz/Face-Recognition-Project/assets/171207708/de2a5388-1175-4370-a3ce-991432c722a3">
-)
+
+![facerecogscreenshot1](https://github.com/eazziz/Face-Recognition-Project/assets/171207708/305a6683-10ff-446b-9101-437f04f2a899)
+
 
 
 ## Features
