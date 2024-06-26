@@ -5,8 +5,7 @@ The Real-Time Face Recognition System is a Python-based project that utilizes Op
 
 *Here, we will add image of us using the program. Image of me, then Obama, then Margot Robbie.
 
-![facerecogscreenshot1](https://github.com/eazziz/Face-Recognition-Project/assets/171207708/305a6683-10ff-446b-9101-437f04f2a899)
-
+<img src="facerecogscreenshot1.jpg" alt="Face Recognition Example" width="500"/>
 
 
 ## Features
