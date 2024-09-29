@@ -3,7 +3,7 @@
 ## Introduction
 This is a Python-based project that uses the libraries: OpenCV and face_recognition to perform real-time face detection and recognition. It captures video from a camera, identifies known faces, and projects boxes and names for recognized/unrecognzied users.
 
-<img width="500" alt="Screenshot 2024-09-28 at 10 57 54 PM" src="https://github.com/user-attachments/assets/822a10aa-0475-4697-90b3-9c4fd5d86919">
+<img width="600" alt="Screenshot 2024-09-28 at 10 57 54 PM" src="https://github.com/user-attachments/assets/822a10aa-0475-4697-90b3-9c4fd5d86919">
 
 
 
